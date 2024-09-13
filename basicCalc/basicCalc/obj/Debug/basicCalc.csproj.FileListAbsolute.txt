@@ -1,0 +1,11 @@
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\bin\Debug\basicCalc.exe.config
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\bin\Debug\basicCalc.exe
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\bin\Debug\basicCalc.pdb
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.csproj.AssemblyReference.cache
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.Form1.resources
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.Properties.Resources.resources
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.csproj.GenerateResource.cache
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.csproj.CoreCompileInputs.cache
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.exe
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.pdb
+C:\Users\lielo\Desktop\temp works\basicCalc\basicCalc\obj\Debug\basicCalc.showEx.resources
